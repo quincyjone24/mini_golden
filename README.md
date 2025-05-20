@@ -3,23 +3,42 @@ mkdir my-project
 cd my-project
 # mini_golden
 
-A brief description of what this project does and who it's for.
+# Mini Golden Doodle for Sale – Dallas, TX 🐶
 
-## 🚀 Features
+Welcome to the official website for **Mini Golden Doodle Puppies for Sale in Dallas, Texas**.
 
-- Feature 1
-- Feature 2
-- Feature 3
+🔗 **Live Website**: [https://minigoldendoodleforsaledallas.com/](https://minigoldendoodleforsaledallas.com/)
 
-## 🛠️ Technologies Used
+---
 
-- Python 3.10
-- Flask
-- SQLite
+## 📌 About Us
 
-## 📦 Installation
+We specialize in **Miniature Goldendoodles**, offering healthy, happy, and well-socialized puppies to loving homes in the Dallas-Fort Worth area.
 
-```bash
-git clone https://github.com/quincyjone24/mini_golden.git
-cd mini_golden
-pip install -r requirements.txt
+Our puppies are raised in a safe, nurturing environment and receive early training and veterinary care to ensure they are ready to become part of your family.
+
+---
+
+## 🐾 Features
+
+- Detailed puppy profiles with photos
+- Easy inquiry & contact form
+- Mobile-friendly and fast-loading website
+- Ethical breeding practices
+- Local pickup in Dallas, TX
+
+---
+
+## 🧑‍💻 Technologies Used
+
+- HTML5 / CSS3 / JavaScript
+- Responsive design
+- SEO optimization
+- Hosting via [Namecheap](https://www.namecheap.com) (or GitHub Pages if applicable)
+
+---
+
+## 📸 Website Preview
+
+> You can add a screenshot here:
+
